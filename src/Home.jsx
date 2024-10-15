@@ -3,18 +3,18 @@ import "./Homestyle.css";
 
 const Home = () => {
     return( 
-      <div class="complete">
-         <img src="images\logo.svg" class="logo" />
-        <div class="header">
-        <div class="nav">
-            <a class="btn">Features</a><br />
-            <a class="btn">Company</a><br />
-            <a class="btn">Career</a><br />
-            <a class="btn">About</a><br />
+      <div className="complete">
+         <img src="images\logo.svg" className="logo" />
+        <div className="header">
+        <div className="nav">
+            <a className="btn">Features</a><br />
+            <a className="btn">Company</a><br />
+            <a className="btn">Career</a><br />
+            <a className="btn">About</a><br />
         </div>
-<div class="cta">
-        <button class="log">Login</button>
-        <button class="reg">Register</button>
+<div className="cta">
+        <button className="log">Login</button>
+        <button className="reg">Register</button>
         </div>
       </div>
       </div>
