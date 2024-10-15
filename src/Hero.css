@@ -1,0 +1,37 @@
+.bigtext{
+    font-size: 60px;
+    font-weight: bolder;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.herotext{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.dep{
+    font-size: 15px;
+    color: gray;
+    margin-top: 40px;
+}
+
+.learn{
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+
+.sponsors{
+    display: flex;
+    gap: 30px;
+    margin-top: 90px;
+}
+.heroimg{
+    width: 400px;
+}
+.herosec{
+    display: flex;
+justify-content: space-evenly;
+}
